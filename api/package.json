@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@google-cloud/text-to-speech": "^5.2.0"
+  }
+}
