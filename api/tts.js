@@ -31,3 +31,4 @@ export default async function handler(req, res) {
     audioContent: response.audioContent.toString("base64")
   });
 }
+
